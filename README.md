@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm filipelperes</h1>
+<h1 align="center">Hi 👋, I'm Filipe</h1>
 
 <p align="center">
  <a href="https://linkedin.com/in/filipelperes" target="blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" target="_blank"> </a>
