@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Filipe</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Filipe</h1>
 
 <p align="center">
  <a href="https://linkedin.com/in/filipelperes" target="blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" target="_blank"> </a>
@@ -77,5 +77,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=filipelperes&theme=omni&hide_border=true&include_all_commits=true&card_width=200&hide_title=true&count_private=true&size_weight=0&count_weight=1&hide_rank=true"/>
  </p>
 </details>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=filipelperes&label=Profile%20views&color=988BC7&style=for-the-badge&label=Views" alt="filipelperes" /> </p>
