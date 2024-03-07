@@ -7,7 +7,7 @@
   <a href="https://t.me/filipelperes"> <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"> </a>
 </p>
 
-<h2 align="center" style="margin-top: 50px">Languages</h2>
+<h2 align="center">Languages</h2>
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="35" height="35"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="35" height="35"/>
