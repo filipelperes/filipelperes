@@ -1,11 +1,16 @@
+<p align="center">
+  <a href="https://linkedin.com/in/filipelperes" target="blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
+  <a href="https://discord.com/users/399592495811526657" target="_blank"> <img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> </a>
+  <a href="https://t.me/filipelperes"> <img align="center" src="https://img.shields.io/badge/Telegram-27A7E7?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"> </a>
+</p>
+
 #
 <h1 align="center">Hi <img align="center" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="45px">, I'm Filipe Lago Peres</h1>
 
 <p align="center">
-  <a href="mailto:filipelperes@gmail.com"> <img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
-  <a href="https://linkedin.com/in/filipelperes" target="blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
-  <a href="https://discord.com/users/399592495811526657" target="_blank"> <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> </a>
-  <a href="https://t.me/filipelperes"> <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"> </a>
+  <a href="mailto:filipelperes@gmail.com"> <img align="center" src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
+  <a href="mailto:filipelperes@pm.me"> <img align="center" src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"> </a>
+  <a href="mailto:filipelperes@outlook.com.br"> <img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"> </a>
 </p>
 
 <h2 align="center">Languages</h2>
