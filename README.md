@@ -13,7 +13,7 @@
   <a href="mailto:filipelperes@outlook.com.br"> <img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"> </a>
 </p>
 
-<h2 align="center">Languages</h2>
+<h3 align="center">Languages</h3>
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="35" height="35"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="35" height="35"/>
@@ -27,7 +27,7 @@
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="35" height="35"/>
 </p>
 
-<h2 align="center">Technologies & Tools</h2>
+<h3 align="center">Technologies & Tools</h3>
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="35" height="35"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg" alt="Less" width="35" height="35"/>
@@ -50,7 +50,7 @@
 <details>
   <summary><b>Databases</b></summary>
 
-  <h2 align="center">Databases</h2>
+  <h3 align="center">Databases</h3>
   <p align="center">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="35" height="35"/>
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="35" height="35"/>
@@ -62,7 +62,7 @@
 <details>
   <summary><b>OS</b></summary>
 
-  <h2 align="center">OS</h2>
+  <h3 align="center">OS</h3>
   <p align="center">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="35" height="35"/>
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="Windows" width="35" height="35"/>
