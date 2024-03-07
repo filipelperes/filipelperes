@@ -28,7 +28,6 @@
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stylus/stylus-original.svg" alt="Stylus" width="35" height="35"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="35" height="35"/>
 </p>
-
 <p align="center">  
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="35" height="35"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="35" height="35"/>
@@ -36,7 +35,6 @@
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="JQuery" width="35" height="35"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="35" height="35"/>
 </p>
-
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="35" height="35"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg" alt="Insomnia" width="35" height="35"/>
@@ -67,7 +65,6 @@
 
 <details>
   <summary><b>More</b></summary>
-
   
   <p align="center">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=filipelperes&theme=omni" />
