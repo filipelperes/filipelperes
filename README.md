@@ -66,23 +66,20 @@
 <details>
   <summary><b>More</b></summary>
 
-  <p align="center">  
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipelperes&theme=omni&hide_border=true&card_width=700&hide_title=true&layout=compact"/>
-  </p>  
-    
-  <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=filipelperes&theme=omni&hide_border=true&card_width=700&stroke=transparent"/>
-  </p>
+  
   <p align="center">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=filipelperes&theme=omni" />
-  </p>
+  </p>  
   <p align="center">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=filipelperes&theme=omni" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=filipelperes&theme=omni" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=filipelperes&theme=omni" />
   </p>
-
+  <p align="center">  
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipelperes&theme=omni&hide_border=true&layout=compact"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipelperes&theme=omni&hide_border=true&include_all_commits=true&count_private=true&size_weight=0&count_weight=1&rank_icon=percentile&show_icons=true&text_bold=false&custom_title=Stats"/>
+  </p>    
   <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipelperes&theme=omni&hide_border=true&include_all_commits=true&card_width=200&hide_title=true&count_private=true&size_weight=0&hide_rank=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=filipelperes&theme=omni&hide_border=true&card_width=700"/>
   </p>
 </details>
 
