@@ -10,7 +10,7 @@
 <p align="center">
   <a href="mailto:filipelperes@gmail.com"> <img align="center" src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
   <a href="mailto:filipelperes@pm.me"> <img align="center" src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"> </a>
-  <a href="mailto:filipelperes@outlook.com.br"> <img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"> </a>
+  <a href="mailto:filipelperes@outlook.com.br"> <img align="center" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"> </a>
 </p>
 
 <h3 align="center">Languages</h3>
