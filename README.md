@@ -17,8 +17,6 @@
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="35" height="35"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="35" height="35"/>
-</p>
-<p align="center">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Javascript" width="35" height="35"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="Typescript" width="35" height="35">
 </p>
@@ -34,10 +32,10 @@
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stylus/stylus-original.svg" alt="Stylus" width="35" height="35"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="35" height="35"/>
 </p>
-<p align="center">  
+<p align="center">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="35" height="35"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="35" height="35"/>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="Yarn" width="35" height="35"/> 
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="Yarn" width="35" height="35"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="JQuery" width="35" height="35"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="35" height="35"/>
 </p>
@@ -71,18 +69,18 @@
 
 <details>
   <summary><b>More</b></summary>
-  
+
   <p align="center">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=filipelperes&theme=omni" />
-  </p>  
+  </p>
   <p align="center">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=filipelperes&theme=omni" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=filipelperes&theme=omni" />
   </p>
-  <p align="center">  
+  <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipelperes&theme=omni&hide_border=true&layout=compact"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipelperes&theme=omni&hide_border=true&include_all_commits=true&count_private=true&size_weight=0&count_weight=1&rank_icon=percentile&show_icons=true&text_bold=false&custom_title=Stats"/>
-  </p>    
+  </p>
   <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=filipelperes&theme=omni&hide_border=true&card_width=700"/>
   </p>
