@@ -83,7 +83,7 @@
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=filipelperes&theme=omni" />
   </p>
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipelperes&theme=omni&hide_border=true&layout=compact"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipelperes&theme=omni&hide_border=true&layout=compact&langs_count=8"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipelperes&theme=omni&hide_border=true&include_all_commits=true&count_private=true&size_weight=0&count_weight=1&rank_icon=percentile&show_icons=true&text_bold=false&custom_title=Stats"/>
   </p>
   <p align="center">
